@@ -11,3 +11,6 @@ for (i in 1:5000) {
     print(3*i)
     print(4*k)
 }
+
+# test
+if k = 5

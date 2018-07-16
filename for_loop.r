@@ -9,5 +9,5 @@ for (i in 1:200) {
     print(i)
     print(2*i)
     print(3*i)
-    print(4*i)
+    print(4*k)
 }

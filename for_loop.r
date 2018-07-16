@@ -21,3 +21,8 @@ else
 ## stash ^3^
 
 # add even more things
+x =0;
+for (i in 1:20){
+x = x + i^2
+print(x)
+}

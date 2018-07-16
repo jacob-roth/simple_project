@@ -5,7 +5,7 @@ for (i in 1:100) {
     print(i)
 }
 
-while (i < 20) {
+for (i in 1:20) {
     print(i)
     print(2*i)
     print(3*i)

@@ -5,7 +5,7 @@ for (i in 1:100) {
     print(i)
 }
 
-for (i in 1:200) {
+for (i in 1:2000) {
     print(i)
     print(2*i)
     print(3*i)

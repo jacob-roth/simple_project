@@ -26,3 +26,9 @@ for (i in 1:20){
 x = x + i^2
 print(x)
 }
+# second change
+
+if x = 9
+print" x is square"
+else
+ "it is not"

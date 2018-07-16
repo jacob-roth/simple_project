@@ -14,3 +14,6 @@ for (i in 1:5000) {
 
 # test
 if k = 5
+    print("yay")
+else
+    print("boo")

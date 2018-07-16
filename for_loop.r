@@ -5,6 +5,9 @@ for (i in 1:100) {
     print(i)
 }
 
-for (i in 11:20) {
+while (i < 20) {
     print(i)
+    print(2*i)
+    print(3*i)
+    print(4*i)
 }

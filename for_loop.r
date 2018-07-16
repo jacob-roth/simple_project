@@ -12,5 +12,8 @@ for (i in 1:5000) {
     print(4*k)
 }
 
-# master test
-x <- 10
+# test
+if k = 5
+    print("yay")
+else
+    print("boo")
